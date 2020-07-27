@@ -1,13 +1,5 @@
-/* .container {
-    position: center;
-    width: 100%;
-    padding-bottom: 56.25%;
-    height: 0;
-
+.Video1 {
+    padding-left: ($spacer * .5) !important;
+    padding-right: ($spacer * .5) !important;
 }
-.container {
-    position: absolute;
-    top: 0s;
-    left: 0;
-    width: 0;
-    height: 100%; */
+  
