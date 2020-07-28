@@ -72,5 +72,6 @@ Day two
                                       <iframe width="560" height="315" src="https://www.youtube.com/embed/tjPDIi95dA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media;                 gyroscope;                                                                                                                                  picture-in-picture" allowfullscreen></          iframe>
 
         ???-responsiveness is still an issue
-
+            $$-works
+        ???-need to find out how to move picture like it was originaly i dont like the inline style i have going on. may need to put it into a jumbotron  
     
